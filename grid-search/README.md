@@ -1,6 +1,5 @@
 # Documentation for the AR-HMM Grid Search Code
 
-"""
 This code performs a grid search to find the optimal number of hidden states and autoregressive (AR) order for an Autoregressive Hidden Markov Model (AR-HMM) using behavioral data.
 
 **Overview:**
