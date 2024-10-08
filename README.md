@@ -27,6 +27,10 @@ Clone the repository:
 
 `changepoint_analysis.py` provides a method to detect changepoints in the data using a filtered derivative algorithm. This is useful for identifying significant shifts in behavior patterns over time.
 
+### Shuffling Behavior Analysis
+
+`shuffling_analysis.py` performs PCA on normalized data, shuffles the averaged principal components in blocks of varying sizes, and analyzes the temporal structure by plotting autocorrelation functions for each block size
+
 ### Autocorrelation Analysis
 
 `autocorrelation_analysis.py` applies PCA to the data and calculates the autocorrelation for the top principal components. This provides insights into repeating patterns and long-range dependencies in the data.
