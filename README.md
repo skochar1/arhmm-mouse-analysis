@@ -9,7 +9,7 @@
 
 Clone the repository:
    ```bash
-   git clone https://github.com/skochr1/arhmm-mouse-analysis.git
+   git clone https://github.com/skochar1/arhmm-mouse-analysis.git
    cd arhmm-mouse-analysis
    ```
 
